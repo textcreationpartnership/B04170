@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The long nos'd lass: or, The taylors, millers, tinkers, tanners, and glovers; with a great number of other trades-men, dash't out of countenance by a sow-ships beauty, to their great discontent, and her perpetual trouble. Tune of, The country farmer. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04170</idno>
+            <idno type="STC">Wing L2990</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[279]</idno>
+            <idno type="EEBO-CITATION">99887770</idno>
+            <idno type="PROQUEST">ocm99887770</idno>
+            <idno type="VID">183431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183431)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[222])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The long nos'd lass: or, The taylors, millers, tinkers, tanners, and glovers; with a great number of other trades-men, dash't out of countenance by a sow-ships beauty, to their great discontent, and her perpetual trouble. Tune of, The country farmer. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse : "[...] you not hear of a rumor of late ..."</note>
+                  <note>Imperfect: trimmed and tightly bound affecting legibility.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="279" facs="tcp:183431:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The Long-Nos'd LASS: OR, <hi>The Taylors, Millers, Tinkers, Tanners,</hi> and <hi>Glovers;</hi> with a great number of other Trades-Men, daſh't out of Countenance by a <hi>Sow-ſhips</hi> Beauty, to their great Diſcon<g ref="char:EOLhyphen"/>tent, and her perpetual trouble.</head>
+            <opener>
+               <hi>Tune of,</hi> The Country Farmer.</opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>This may be Printed,</hi> 
+                        </p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you not hear of a Rumor of late,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oncerning a perſon whoſe Fortune was great,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tion was Seventeen thouſand good pound,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a good Husband was not to be found:</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this I will tell to you now,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was perfectly juſt like a Sow,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Court her came flocking each day,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her, ſtraight they run frighted away.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the reſt a fine <hi>Taylor</hi> alſo,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to this perſon a Suitor to go;</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the preſent alas I am poor,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Gold I ſhall then have good ſtore:</l>
+               <l>'Tis <hi>Cowcomber</hi>-time, and I now have no Trade,</l>
+               <l>But if do get her, I then ſhall be made,</l>
+               <l>Therefore I will put on the beſt of my Cloaths,</l>
+               <l>My Hat, with my Band, and my <hi>Holy-day</hi>-Hoſe.</l>
+            </lg>
+            <lg>
+               <l>The hopes of this Fortune his fancy did feed,</l>
+               <l>And therefore to her he did haſten with ſpeed</l>
+               <l>When coming he ſtraight for this perſon did ask,</l>
+               <l>She came her own ſelf in a fine Viſor-Mask;</l>
+               <l>And ſaid, I am ſhe Sir, pay what would you have?</l>
+               <l>I'm come, quoth the <hi>Taylor,</hi> your Love for to crave,</l>
+               <l>She open'd the door, and bid him welcome in,</l>
+               <l>And then to his Courting he ſtraight did begin.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Taylor</hi> went on with a noble good grace,</l>
+               <l>Like one of much Courage his Love to Embrace;</l>
+               <l>Thought he, with a Fortune I now ſhall be bleſt,</l>
+               <l>But liſten I pray to the Cream of the Ieſt:</l>
+               <l>She pull'd off her Vizor, and turn'd her about,</l>
+               <l>And ſtraightway the <hi>Taylor</hi> beheld her long Snout;</l>
+               <l>Ah! how he was frighted and run out of door.</l>
+               <l>And vow'd he would never come near her no more.</l>
+            </lg>
+            <lg>
+               <l>The next was a <hi>Miler,</hi> who to her did Ride,</l>
+               <l>Reſolved he was for to make her his Bride;</l>
+               <l>Quoth he, as I now am a right honeſt Man,</l>
+               <l>I'le Wed her and Love her as well as I can:</l>
+               <l>For Beauty, O let it be now as it will,</l>
+               <l>As long as the brings me good Grift to the Mill;</l>
+               <l>Both Silver and Gold I ſhall have at command;</l>
+               <l>With which I will Purchaſe me Houſes and Land.</l>
+            </lg>
+            <lg>
+               <l>I now in conceit am as great as a Lord</l>
+               <l>What pleaſures ſoever the World can afford,</l>
+               <l>I'le have it, and likewiſe in Silver will ſhine,</l>
+               <l>Then <hi>Gillian</hi> will wonder to ſee me ſo fine:</l>
+               <l>To <hi>Robin</hi> my Servant i'le give my great Bowl,</l>
+               <l>With which I was formerly us'd to take Toll,</l>
+               <l>And likewiſe the Mill, if I Marry this Maid,</l>
+               <l>For never no more will I follow the Trade.</l>
+            </lg>
+            <lg>
+               <l>As he was a riding to her on his Mare,</l>
+               <l>He thus was a building Caſtles in the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir;</l>
+               <l>But when he beheld her moſt amiable Face,</l>
+               <l>Alas! he was ſoon in a ſorrowful caſe:</l>
+               <l>His hopes were confounded, away he did run,</l>
+               <l>Saying, ſhould I have her, a thouſand to one</l>
+               <l>But I ſhall be frighted, when her I behold,</l>
+               <l>Therefore I'le not have her for Silver or Gold.</l>
+            </lg>
+            <lg>
+               <l>Both <hi>Tinkers</hi> and <hi>Tanners,</hi> and <hi>Glovers</hi> alſo</l>
+               <l>Came to her, the Money encouraged them ſo;</l>
+               <l>Nay, thouſands came to her then every day,</l>
+               <l>Each ſtriving to carry this Beauty away:</l>
+               <l>But when they beheld this moſt ordinary Stuff,</l>
+               <l>The ſight of her Viſage did give them enuff;</l>
+               <l>Yet if ſhe be Marry'd while here ſhe does live,</l>
+               <l>A perfect account of the Wedding I'le give.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
